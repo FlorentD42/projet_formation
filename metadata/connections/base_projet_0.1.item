@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_mOEaUHpGEeqtbsw2wVaFNQ" name="base_projet" id="_SObcEHpGEeqtbsw2wVaFNQ" label="base_projet" dataPackage="_EVvjEHpIEeqtbsw2wVaFNQ" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://db4free.net:3306/projet_formation?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="3306" Username="marifloliss" Password="enc:system.encryption.key.v1:o6kiaYrUnrl2bW+0AYy/2mJCUJwY+tVDVGMl4t9zUqcnuJ/x" ServerName="db4free.net" DatasourceName="" FileFieldName="" SID="projet_formation" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_mOG2kHpGEeqtbsw2wVaFNQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_mVOyQHpGEeqtbsw2wVaFNQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_mVZxYHpGEeqtbsw2wVaFNQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_mVZxYXpGEeqtbsw2wVaFNQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_mVZxYnpGEeqtbsw2wVaFNQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_mVZxY3pGEeqtbsw2wVaFNQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_mVZxZHpGEeqtbsw2wVaFNQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_mVZxZXpGEeqtbsw2wVaFNQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_nng5gHpGEeqtbsw2wVaFNQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_nng5gXpGEeqtbsw2wVaFNQ" tag="DB ProductVersion" value="8.0.19"/>
+    <taggedValue xmi:id="_nng5gnpGEeqtbsw2wVaFNQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_mOG2kXpGEeqtbsw2wVaFNQ" key="CONN_PARA_KEY_USERNAME" value="marifloliss"/>
+    <parameters xmi:id="_yRcFkHpGEeqtbsw2wVaFNQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_EVvjEHpIEeqtbsw2wVaFNQ" name="projet_formation" dataManager="_mOEaUHpGEeqtbsw2wVaFNQ"/>
+</xmi:XMI>
